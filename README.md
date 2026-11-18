@@ -37,10 +37,10 @@
 
 Каждая сборка открывается и как сайт:
 
-- https://github.com/vany201847dody-art/windowsweb-builds/blob/main/`<файл>`
+- https://github.com/avirbeta/windowsweb-builds/blob/main/`<файл>`
 
 ## Итоговый сайт
 
 Рабочая сборка доступна на GitHub Pages отдельного репозитория:
 
-https://vany201847dody-art.github.io/windowsweb/
+https://avirbeta.github.io/windowsweb/
